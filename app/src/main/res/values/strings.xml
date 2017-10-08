@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Angaza</string>
+    <string name="loading">Loading...</string>
+    <string name="defaultText">["a penny saved is a penny earned."]</string>
 </resources>
